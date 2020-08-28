@@ -35,7 +35,7 @@ public class ArraySort {
 		System.out.println("");
 		sortDescending(arr);
 		
-		//Close scanner to avoid resource leak
+		//Close scanner to avoid resource leak.
 		s.close();
 	}
 	
