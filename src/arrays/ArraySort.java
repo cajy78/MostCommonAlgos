@@ -26,7 +26,7 @@ public class ArraySort {
 		System.out.println("Unsorted array list as entered:");
 		displayArray(arr);
 		
-		//sorting ascending using temp variable and display
+		//sorting using temp variable and display
 		System.out.println("");
 		System.out.println("");
 		System.out.println("Sorted array:");
